@@ -61,9 +61,9 @@ const publications = [
 ];
 
 const patents = [
-  'Assembly machine model for retaining rings',
-  'Detection model for empty drums',
-  'Control cabinet design',
+  'Assembly machine model for retaining rings — Patent No. 201520535357X',
+  'Detection model for empty drums — Patent No. 2016202769732',
+  'Control cabinet design — Patent No. 2016202764917',
 ];
 
 const skills = ['SPS / PLC', 'AutoCAD', 'Inventor', 'SolidWorks', 'MATLAB/Simulink', 'Python', 'MS Office', 'PMP'];
