@@ -90,9 +90,6 @@ function App() {
               <a className="primary-link" href="#contact">
                 Get in touch
               </a>
-              <a className="secondary-link" href="/Lebenslauf.pdf" download>
-                Download CV
-              </a>
             </div>
           </div>
           <div className="hero-card" aria-label="Profile summary">
