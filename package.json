@@ -2,6 +2,7 @@
   "name": "bingbin-shen-portfolio",
   "private": true,
   "version": "1.0.0",
+  "packageManager": "pnpm@12.5.1",
   "type": "module",
   "homepage": "https://bingbinshen.github.io/",
   "scripts": {
